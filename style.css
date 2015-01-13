@@ -2,5 +2,16 @@ body {
 
 background-color: black;
 color: green;
+font-family: 'Maven Pro', sans-serif;
+
+}
+
+
+.nav {
+text-decoration: none;
+font-family: 'Maven Pro', sans-serif;
+
+
+
 
 }
